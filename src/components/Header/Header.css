@@ -1,0 +1,12 @@
+.header{
+  grid-area:header;
+  color: #30336b;
+}
+
+.site-name{
+  font-family: 'Fredoka One', sans-serif;
+}
+
+.site-subtitle{
+  font-family: 'Roboto Condensed', sans-serif;
+}

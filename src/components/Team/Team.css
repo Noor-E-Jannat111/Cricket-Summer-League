@@ -1,0 +1,31 @@
+.team{
+  height: 100vh;
+  grid-area: team;
+  border-right: 1px solid #95afc0;
+  position: sticky;
+  top: 0;
+  overflow-y:auto;
+}
+
+.team-logo{
+  width: 180px;
+}
+
+.team-member-count{
+  font-family: 'roboto condensed', sans-serif;
+}
+
+.total-price-button{
+  background:#30336b;
+  color: #FFF; 
+}
+
+
+.total-price-button:hover{
+  color: #FFF;
+  cursor: default;
+}
+
+.no-player{
+  font-family: 'roboto condensed', sans-serif;
+}
